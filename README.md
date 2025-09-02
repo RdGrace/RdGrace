@@ -37,6 +37,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RdGrace&show_icons=true&theme=transparent" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RdGrace&layout=compact&theme=transparent" alt="Top Languages" />
 </p>
 
 ---
