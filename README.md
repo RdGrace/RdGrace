@@ -15,7 +15,7 @@
 - 🎓 **5th-year student**, *Electronics and Automation*
 - 💼 Employed, working on a **cross-platform network library** (Win/Linux) with **libpcap** for industrial systems
 - ⚙️ Interested in **Embedded systems**, **STM32 microcontrollers**, and low-level development
-- 🛠️ Tools: `C`, `C++`, `Python`, `Make`, `Bash`, `libpcap`, `Wireshark`, `STM32CubeIDE`, `Keil`, 'IAR'
+- 🛠️ Tools: `C`, `C++`, `Python`, `Make`, `Bash`, `libpcap`, `Wireshark`, `STM32CubeIDE`, `Keil`, `IAR`
 - 📬 Email: [ntzgrace1337@gmail.com](mailto:ntzgrace1337@gmail.com)
 
 ---
@@ -37,14 +37,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RdGrace&show_icons=true&theme=transparent" alt="GitHub Stats" />
-</p>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RdGrace&theme=github-light" alt="Contribution Graph" />
 </p>
 
 ---
