@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/STM32_microcontroller_logo.svg" alt="STM32" width="40" height="40" />
+  <img src="https://pnghut.com/png/HzSE03rdVy/stmicroelectronics-integrated-circuits-chips-printed-circuit-board-stm32-electronic-component-logo-sign-transparent-png" alt="STM32" width="40" height="40" />
 </p>
 
 ---
